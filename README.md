@@ -1,5 +1,5 @@
 # HPlusSport
-This ASP .Net Core API project represents the fictional HPlusSports website.
+#This ASP .Net Core API project represents the fictional HPlusSports website.
 It contains two main controllers ie products and categories.
 1. It uses the EF Core Object Oriented Model to communicate with an sql server database.
 2. The product controller contains Action Methods to perform CRUD operations.
